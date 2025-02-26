@@ -1,5 +1,8 @@
 {
   "server": "mastodon.c99.org",
+  "home-timeline-length": 25,
+  "max-followings": 10,
+  "max-followers": 10,
   "http-timeout": 60,
   "log-level": "CRITICAL"
 }
