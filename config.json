@@ -1,0 +1,5 @@
+{
+  "server": "mastodon.c99.org",
+  "http-timeout": 60,
+  "log-level": "CRITICAL"
+}
